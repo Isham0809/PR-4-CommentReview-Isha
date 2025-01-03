@@ -3,7 +3,7 @@
 This documentation outlines the Comment/Review project that uses emojis as a rating system and a feedback field. Users can select emojis as a rating (1 to 5), which are stored in an array, and this data is dynamically displayed on another card in a carousel format.
 Currently, two official plugins are available:
 
-# - Features
+# Features
 
 1. Emoji Rating System
 
@@ -29,7 +29,7 @@ Currently, two official plugins are available:
 
         - The user’s written feedback.
 
-# - Technologies Used
+# Technologies Used
   
    - Frontend: React.js
 
