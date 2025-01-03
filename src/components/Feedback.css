@@ -1,0 +1,9 @@
+body{
+    background-color: #c9c9cab1;
+}
+::placeholder{
+    color:#6c757d !important;
+}
+textarea{
+    box-shadow: none !important;
+}
